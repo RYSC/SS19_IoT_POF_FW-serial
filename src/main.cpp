@@ -65,7 +65,7 @@ char pass[] = "cmfj1b5fv2kff";
 DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
 
-// Check for change please
+// TEST CHANGE PLZ
 
 // This function sends Arduino's up time every second to Virtual Pin (5).
 // In the app, Widget's reading frequency should be set to PUSH. This means
