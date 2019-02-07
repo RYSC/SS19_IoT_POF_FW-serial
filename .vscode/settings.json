@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/rachelcallaghan/.platformio/penv/bin:/Users/rachelcallaghan/.platformio/penv:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Users/rachelcallaghan/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
